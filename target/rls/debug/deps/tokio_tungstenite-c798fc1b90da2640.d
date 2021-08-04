@@ -1,0 +1,9 @@
+/Users/patrickbeam/workspace/http-ws-server-rs/target/rls/debug/deps/tokio_tungstenite-c798fc1b90da2640.rmeta: /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/lib.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/compat.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/connect.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/handshake.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/stream.rs
+
+/Users/patrickbeam/workspace/http-ws-server-rs/target/rls/debug/deps/tokio_tungstenite-c798fc1b90da2640.d: /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/lib.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/compat.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/connect.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/handshake.rs /Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/stream.rs
+
+/Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/lib.rs:
+/Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/compat.rs:
+/Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/connect.rs:
+/Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/handshake.rs:
+/Users/patrickbeam/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.13.0/src/stream.rs:
