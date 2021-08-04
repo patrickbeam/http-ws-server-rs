@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/patrickbeam/workspace/http-ws-server-rs/target/rls/debug/build/typenum-0690c4427e5b2502/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/patrickbeam/workspace/http-ws-server-rs/target/rls/debug/build/typenum-0690c4427e5b2502/out/op.rs
